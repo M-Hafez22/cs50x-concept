@@ -1,17 +1,19 @@
 import React from 'react'
+import Header from './components/Header'
+import Footer from './components/Footer'
+
 
 function Home() {
     return (
         <div>
-            Home
+        Home
+            <Header />
             {/* 
-                Header
                 Weeks List
-                Footer
             */}
+            <Footer />
         </div>
     )
 }
 
 export default Home
-Home
