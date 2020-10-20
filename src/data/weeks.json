@@ -1,0 +1,174 @@
+{
+    "0": {
+        "name": "Scratch 😺",
+        "youtube_video": "https://www.youtube.com/embed/jjqgP9dpD1k",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing"
+        },
+        "source_code": {
+            "studio": "https://scratch.mit.edu/studios/25128634/"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU",
+            "youtube": {
+                "2D": "https://youtu.be/jjqgP9dpD1k",
+                "3D": "https://youtu.be/2R4i4Dh5qYQ"
+            }
+        }
+    },
+    "1": {
+        "name": "C",
+        "youtube_video": "https://www.youtube.com/embed/e9Eds2Rc_x8",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/e9Eds2Rc_x8?screen=ClQXfUurzgU",
+            "youtube": {
+                "2D": "https://youtu.be/e9Eds2Rc_x8"
+            }
+        },
+        "shorts": {
+            "Dara Types": "https://www.youtube.com/embed/q6K8KMqt8wQ",
+            "Operators": "https://www.youtube.com/embed/7apBtlEkJzk?rel=0",
+            "Conditional Statements": "https://www.youtube.com/embed/FqUeHzvci10?rel=0",
+            "Loops": "https://www.youtube.com/embed/QOvo-xFL9II?rel=0",
+            "Command Line": "https://www.youtube.com/embed/lnYKOnz9ln8?rel=0"
+        }
+    },
+    "2": {
+        "name": "Arrays",
+        "youtube_video": "https://www.youtube.com/embed/8PrOp9t0PyQ",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/1BPOm4VNOmlOLKzwOHPYR3FXEXLiJbOW3MSKdp1wMNnk/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/8PrOp9t0PyQ?screen=gCTTN_sINNI",
+            "youtube": {
+                "2D": "https://youtu.be/8PrOp9t0PyQ"
+            }
+        },
+        "shorts": {
+            "Functions": "https://www.youtube.com/embed/b7-0sb-DV84",
+            "Variables and Scope": "https://www.youtube.com/embed/GiFbdVGjF9I",
+            "Arrays": "https://www.youtube.com/embed/mISkNAfWl8k",
+            "Command Line Arguments": "https://www.youtube.com/embed/AI6Ccfno6Pk"
+        }
+    },
+    "3": {
+        "name": "Algorithms",
+        "youtube_video": "https://www.youtube.com/embed/fykrlqbV9wM",
+        "Demo": {
+            "Comparison Sorting Algorithms": "https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html",
+            "Visualiztion and Comparison of Sorting Algorithms": "https://www.youtube.com/watch?v=ZZuD6iUe3Pc"
+        },
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/fykrlqbV9wM?screen=sPRcgqR8CJw",
+            "youtube": {
+                "2D": "https://youtu.be/fykrlqbV9wM"
+            }
+        },
+        "shorts": {
+            "Linear Search": "https://www.youtube.com/watch?v=TwsgCHYmbbA",
+            "Binary Search": "https://www.youtube.com/watch?v=T98PIp4omUA",
+            "Bubble Sort": "https://www.youtube.com/watch?v=RT-hUXUWQ2I",
+            "Selection Sort": "https://www.youtube.com/watch?v=3hH8kTHFw2A",
+            "Insertion Sort": "https://www.youtube.com/watch?v=O0VbBkUvriI",
+            "Recursion": "https://www.youtube.com/watch?v=mz6tAJMVmfM",
+            "Merge Sort": "https://www.youtube.com/watch?v=Ns7tGNbtvV4",
+            "Algorithms Summary": "https://www.youtube.com/watch?v=ktWL3nN38ZA"
+        }
+    },
+    "4": {
+        "name": "Memory",
+        "youtube_video": "https://www.youtube.com/embed/cF6YkH-8vFk",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/cF6YkH-8vFk?screen=61UgdI37tK0",
+            "youtube": {
+                "2D": "https://youtu.be/fykrlqbV9wM"
+            }
+        },
+        "shorts": {
+            "Hexadecimal": "https://www.youtube.com/watch?v=u_atXp-NF6w",
+            "Pointers": "https://www.youtube.com/watch?v=XISnO2YhnsY",
+            "Defining Cutom Types": "https://www.youtube.com/watch?v=crxfzK3Oc9M",
+            "Dynamic Memory Allocation": "https://www.youtube.com/watch?v=crxfzK3Oc9M",
+            "Call Stacks": "https://www.youtube.com/watch?v=aCPkszeKRa4",
+            "File Pointer": "https://www.youtube.com/watch?v=bOF-SpEAYgk"
+        }
+    },
+    "5": {
+        "name": "Data Structures",
+        "youtube_video": "https://www.youtube.com/embed/4IrUAqYKjIA",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/1KMzq3bLe7g_O4JVYZ0lxuxHjShnIk54beO84-chYTig/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player": "https://video.cs50.io/4IrUAqYKjIA?screen=k5rlx6U0sJQ",
+            "youtube": {
+                "2D": "https://youtu.be/4IrUAqYKjIA"
+            }
+        },
+        "shorts": {
+            "Data Structures": "https://www.youtube.com/watch?v=3uGchQbk7g8",
+            "Singly-Linked Lists": "https://www.youtube.com/watch?v=zQI3FyWm144",
+            "Hash Tables": "https://www.youtube.com/watch?v=nvzVHwrrub0",
+            "Tries": "https://www.youtube.com/watch?v=MC-iQHFdEDI"
+        }
+    },
+    "6": {
+        "name": "Python",
+        "youtube_video":"https://www.youtube.com/embed/fL308_-Kbt0",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/1XXKDd6XSXjuAmAZKGAX-_PtYUmoHaJ25j1zsJ17lK2E/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player":"https://video.cs50.io/fL308_-Kbt0?screen=ghsZqKLdKhw" ,
+            "youtube": {
+                "2D": "https://youtu.be/fL308_-Kbt0"
+            }
+        },
+        "shorts": {
+            "Python":"https://www.youtube.com/watch?v=mgBpcQRDtl0"
+        }
+    },
+    "7": {
+        "name": "SQL",
+        "youtube_video":"https://www.youtube.com/embed/u5pDdEKnbKA",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/1Ydz-FLPOBvmJv215WckMyjhlZVnNk66h5yHhZ-yDsc4/edit?usp=sharing"
+        },
+        "Google Spreadsheet":"https://docs.google.com/spreadsheets/d/1nOmVN24bG3PHP0e-A47D101-FcSh0VfpK1EnVKNz1ns/edit?usp=sharing",
+        "video": {
+            "cs50_player":"https://video.cs50.io/u5pDdEKnbKA?screen=-nHi1mI60oI",
+            "youtube": {
+                "2D": "https://youtu.be/u5pDdEKnbKA"
+            }
+        },
+        "shorts": {
+            "SQL":"https://www.youtube.com/watch?v=AywtnUjQ6X4"
+        }
+    },
+    "8": {
+        "name": "Information",
+        "youtube_video": "https://www.youtube.com/embed/suzS0NWu8uQ",
+        "slides": {
+            "google_slides": "https://docs.google.com/presentation/d/1tH5qsKb9Hc276JyUOg_6EgD-TTTMUEinvZJIuD2lA3s/edit?usp=sharing"
+        },
+        "video": {
+            "cs50_player":"https://video.cs50.io/suzS0NWu8uQ?screen=pdwATvi0Sxw",
+            "youtube": {
+                "2D": "https://youtu.be/suzS0NWu8uQ"
+            }
+        }
+    
+    }
+     
+    
+}
