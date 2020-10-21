@@ -1,4 +1,95 @@
 {
+  "zoomList": [
+    {
+      "name": "Zoom Meetings",
+      "link": "https://cs50.harvard.edu/x/2020/zoom/"
+    }
+  ],
+
+  "certificateList": [
+    {
+      "name": "CS50 Certificate",
+      "link": "https://cs50.harvard.edu/x/2020/certificate/"
+    }
+  ],
+
+  "statusList": [
+    {
+      "name": "Changelog",
+      "link": "https://cs50.noticeable.io/"
+    },
+    {
+      "name": "Status Page",
+      "link": "https://cs50.statuspage.io/"
+    }
+  ],
+
+  "channelsList": [
+    {
+      "name": "edX",
+      "link": "https://cs50.edx.org/"
+    },
+    {
+      "name": "iTunes U",
+      "link": "https://cs50.harvard.edu/x/2020/#"
+    },
+    {
+      "name": "YouTube",
+      "link": "https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW"
+    }
+  ],
+
+  "toolsList": [
+    {
+      "name": "CS50 IDE",
+      "link": "https://ide.cs50.io/"
+    },
+    {
+      "name": "Gradebook",
+      "link": "https://cs50.me/cs50x"
+    },
+    {
+      "name": "Manual Pages",
+      "link": "https://man.cs50.io/"
+    },
+    {
+      "name": "Python Documentation",
+      "link": "https://docs.python.org/3.7/search.html"
+    },
+    {
+      "name": "Style Guide",
+      "link": "https://cs50.readthedocs.io/style/c/"
+    }
+  ],
+
+  "guideList": [
+    {
+      "name": "Academic Honesty",
+      "link": "https://cs50.harvard.edu/x/2020/honesty/"
+    },
+    {
+      "name": "Ed Discussion",
+      "link": "https://cs50.harvard.edu/x/ed",
+      "additional": "for Q&A"
+    },
+    {
+      "name": "Quick Start Guide",
+      "link": "https://us.edstem.org/quickstart/ed-discussion.pdf"
+    },
+    {
+      "name": "FAQs",
+      "link": "https://cs50.harvard.edu/x/2020/faqs/"
+    },
+    {
+      "name": "Staff",
+      "link": "https://cs50.harvard.edu/x/2020/staff/"
+    },
+    {
+      "name": "Syllabus",
+      "link": "https://cs50.harvard.edu/x/2020/syllabus/"
+    }
+  ],
+
   "communitiesList": [
     {
       "name": "Communities",
@@ -56,98 +147,7 @@
       "name": "YouTube",
       "link": "http://www.youtube.com/subscription_center?add_user=cs50tv"
     }
-  ],
-
-  "guideList": [
-    {
-      "name": "Academic Honesty",
-      "link": "https://cs50.harvard.edu/x/2020/honesty/"
-    },
-    {
-      "name": "Ed Discussion",
-      "link": "https://cs50.harvard.edu/x/ed",
-      "additional": "for Q&A"
-    },
-    {
-      "name": "Quick Start Guide",
-      "link": "https://us.edstem.org/quickstart/ed-discussion.pdf"
-    },
-    {
-      "name": "FAQs",
-      "link": "https://cs50.harvard.edu/x/2020/faqs/"
-    },
-    {
-      "name": "Staff",
-      "link": "https://cs50.harvard.edu/x/2020/staff/"
-    },
-    {
-      "name": "Syllabus",
-      "link": "https://cs50.harvard.edu/x/2020/syllabus/"
-    }
-  ],
-
-  "toolsList": [
-    {
-      "name": "CS50 IDE",
-      "link": "https://ide.cs50.io/"
-    },
-    {
-      "name": "Gradebook",
-      "link": "https://cs50.me/cs50x"
-    },
-    {
-      "name": "Manual Pages",
-      "link": "https://man.cs50.io/"
-    },
-    {
-      "name": "Python Documentation",
-      "link": "https://docs.python.org/3.7/search.html"
-    },
-    {
-      "name": "Style Guide",
-      "link": "https://cs50.readthedocs.io/style/c/"
-    }
-  ],
-
-  "channelsList": [
-    {
-      "name": "edX",
-      "link": "https://cs50.edx.org/"
-    },
-    {
-      "name": "iTunes U",
-      "link": "https://cs50.harvard.edu/x/2020/#"
-    },
-    {
-      "name": "YouTube",
-      "link": "https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW"
-    }
-  ],
-
-  "statusList": [
-    {
-      "name": "Changelog",
-      "link": "https://cs50.noticeable.io/"
-    },
-    {
-      "name": "Status Page",
-      "link": "https://cs50.statuspage.io/"
-    }
-  ],
-
-    
-  "certificateList": [
-    {
-      "name": "CS50 Certificate",
-      "link": "https://cs50.harvard.edu/x/2020/certificate/"
-    }
-  ],
-
-  "zoomList": [
-    {
-      "name": "Zoom Meetings",
-      "link": "https://cs50.harvard.edu/x/2020/zoom/"
-    }
   ]
-  }
+
+}
   

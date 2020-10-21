@@ -1,9 +1,16 @@
 footer{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 
     .footerGroup{
         margin: 0.5em;
+
+
+        li{
+            padding: 0.25em;
+            margin: 0.25em;
+        }
 
     }
 }
