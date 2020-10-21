@@ -1,0 +1,14 @@
+$clrDark: #4b5162;
+$clrLight: #fff;
+$accent: #00FFF0;
+
+
+a{
+    text-decoration: none;
+    color: $clrLight;
+
+    &:hover{
+        text-decoration: underline;
+    }
+}
+
