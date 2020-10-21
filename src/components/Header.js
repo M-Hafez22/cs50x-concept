@@ -6,12 +6,14 @@ import {FaLinkedin} from 'react-icons/fa'
 import {FaQuora} from 'react-icons/fa'
 import {FaReddit} from 'react-icons/fa'
 import {FaTwitter} from 'react-icons/fa'
+import {Link} from 'react-router-dom'
 
 function Header() {
     return (
         <header className="page-header">
             <div>
-                <h1>This is CS50x</h1>
+                {/* <h1>This is CS50x</h1> */}
+                <Link to='/' className='home-link'>This is CS50x</Link>
                 <span>OpenCourseWare</span>
             </div>
             <div className="auther">

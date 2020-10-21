@@ -5,7 +5,9 @@
     padding: 0.25em 1em .75em; 
     margin-bottom: 2em;
 
-    h1{
+    .home-link{
+        display: block;
+        font-weight: 600;
         font-size: 2.5em;
         padding: 0.25em 0;
     }
