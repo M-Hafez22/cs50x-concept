@@ -11,8 +11,8 @@
         "video": {
             "cs50_player": "https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU",
             "youtube": {
-                "2D": "https://youtu.be/jjqgP9dpD1k",
-                "3D": "https://youtu.be/2R4i4Dh5qYQ"
+                "twoD": "https://youtu.be/jjqgP9dpD1k",
+                "ThreeD": "https://youtu.be/2R4i4Dh5qYQ"
             }
         }
     },
@@ -25,7 +25,7 @@
         "video": {
             "cs50_player": "https://video.cs50.io/e9Eds2Rc_x8?screen=ClQXfUurzgU",
             "youtube": {
-                "2D": "https://youtu.be/e9Eds2Rc_x8"
+                "twoD": "https://youtu.be/e9Eds2Rc_x8"
             }
         },
         "shorts": {
@@ -45,7 +45,7 @@
         "video": {
             "cs50_player": "https://video.cs50.io/8PrOp9t0PyQ?screen=gCTTN_sINNI",
             "youtube": {
-                "2D": "https://youtu.be/8PrOp9t0PyQ"
+                "twoD": "https://youtu.be/8PrOp9t0PyQ"
             }
         },
         "shorts": {
@@ -68,7 +68,7 @@
         "video": {
             "cs50_player": "https://video.cs50.io/fykrlqbV9wM?screen=sPRcgqR8CJw",
             "youtube": {
-                "2D": "https://youtu.be/fykrlqbV9wM"
+                "twoD": "https://youtu.be/fykrlqbV9wM"
             }
         },
         "shorts": {
@@ -91,7 +91,7 @@
         "video": {
             "cs50_player": "https://video.cs50.io/cF6YkH-8vFk?screen=61UgdI37tK0",
             "youtube": {
-                "2D": "https://youtu.be/fykrlqbV9wM"
+                "twoD": "https://youtu.be/fykrlqbV9wM"
             }
         },
         "shorts": {
@@ -112,7 +112,7 @@
         "video": {
             "cs50_player": "https://video.cs50.io/4IrUAqYKjIA?screen=k5rlx6U0sJQ",
             "youtube": {
-                "2D": "https://youtu.be/4IrUAqYKjIA"
+                "twoD": "https://youtu.be/4IrUAqYKjIA"
             }
         },
         "shorts": {
@@ -131,7 +131,7 @@
         "video": {
             "cs50_player":"https://video.cs50.io/fL308_-Kbt0?screen=ghsZqKLdKhw" ,
             "youtube": {
-                "2D": "https://youtu.be/fL308_-Kbt0"
+                "twoD": "https://youtu.be/fL308_-Kbt0"
             }
         },
         "shorts": {
@@ -148,7 +148,7 @@
         "video": {
             "cs50_player":"https://video.cs50.io/u5pDdEKnbKA?screen=-nHi1mI60oI",
             "youtube": {
-                "2D": "https://youtu.be/u5pDdEKnbKA"
+                "twoD": "https://youtu.be/u5pDdEKnbKA"
             }
         },
         "shorts": {
@@ -164,7 +164,7 @@
         "video": {
             "cs50_player":"https://video.cs50.io/suzS0NWu8uQ?screen=pdwATvi0Sxw",
             "youtube": {
-                "2D": "https://youtu.be/suzS0NWu8uQ"
+                "twoD": "https://youtu.be/suzS0NWu8uQ"
             }
         }
     
