@@ -9,9 +9,7 @@ function Week() {
     return (
         <div>
             <Header />
-            <WeekContent 
-                weekNumber = {number}
-            /> 
+            <WeekContent weekNumber = {number} /> 
             <Footer />
         </div>
     )
