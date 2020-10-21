@@ -2,6 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router, Switch, Route}from 'react-router-dom'
 import Home from './Home'
 import Week from './Week'
+import './style/main.scss'
 
 function App() {
   return (
