@@ -1,4 +1,6 @@
 @import "config";
+@import "header";
+
 
 body{
     background: $clrDark;
@@ -6,3 +8,7 @@ body{
 }
 
 
+.App{
+    margin: 0.5em;
+    padding: 0.5em;
+}
