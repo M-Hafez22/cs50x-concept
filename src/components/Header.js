@@ -9,12 +9,12 @@ import {FaTwitter} from 'react-icons/fa'
 
 function Header() {
     return (
-        <div>
+        <header className="page-header">
             <div>
                 <h1>This is CS50x</h1>
                 <span>OpenCourseWare</span>
             </div>
-            <div>
+            <div className="auther">
                 <h3><a href="https://cs.harvard.edu/malan/">David J. Malan</a></h3>
                 <h3><a href="malan@harvard.edu">malan@harvard.edu</a></h3>
                 
@@ -28,8 +28,7 @@ function Header() {
                     <a href="https://twitter.com/davidjmalan"><FaTwitter /></a>
                 </div>
             </div>
-            
-        </div>
+        </header>
     )
 }
 
