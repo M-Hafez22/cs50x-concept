@@ -9,9 +9,7 @@ import weeks from './data/weeks.json'
 function Home() {
 
     const WeeksList = Object.keys(weeks).map((key, index )=> (
-        <li>
             <Link to={`/week/${index}`} >{weeks[index].name}</Link>
-        </li>
     ))
     return (
         <div>
