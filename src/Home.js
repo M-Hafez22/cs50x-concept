@@ -15,10 +15,12 @@ function Home() {
     ))
     return (
         <div>
-            <Header />
-            <ul className="weeks-list">
-                {WeeksList}
-            </ul>
+            <div className="main">
+                <Header />
+                <ul className="weeks-list">
+                    {WeeksList}
+                </ul>
+            </div>
             <Footer />
         </div>
     )

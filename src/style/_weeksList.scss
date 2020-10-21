@@ -3,6 +3,7 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-auto-rows: 1fr;
     padding: 10px;
+    margin: auto 0;
 
     li{
         border: 1px solid $clrLight;
