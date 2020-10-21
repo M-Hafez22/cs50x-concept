@@ -10,13 +10,13 @@ function Home() {
 
     const WeeksList = Object.keys(weeks).map((key, index )=> (
         <li>
-            <Link to={`/week/${index}`} > Week {key} - {weeks[index].name}</Link>
+            <Link to={`/week/${index}`} >{weeks[index].name}</Link>
         </li>
     ))
     return (
         <div>
             <Header />
-            <ul>
+            <ul className="weeks-list">
                 {WeeksList}
             </ul>
             <Footer />
