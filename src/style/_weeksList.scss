@@ -12,6 +12,35 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        /* Hover Animation*/
+        position:relative ;
+        overflow: hidden;
+
+        &:hover{
+            border-color: darken($accent, 30);
+        }
+
+        &:hover::after{
+            transform: scaleX(1);
+            transform-origin:bottom;
+        }
+
+        &::after{
+            content: '';
+            position:absolute ;
+            left: 0;
+            top: 0;
+            height:100%;
+            width: 100%;
+            background:darken($accent, 100) ;
+            background:$accent;
+            opacity: 0.25;
+            transform: scaleX(0);
+            transform-origin:top;
+            transition:  transform 350ms ease;
+        }
+
+
         
         a{
             color: $accent;
