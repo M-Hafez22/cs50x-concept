@@ -66,6 +66,7 @@ function LectureFiles({ weekNumber }) {
                     <h2>Video</h2>
                     <ul>
                         <li><a href={week.video.cs50_player}>CS50 Video player</a></li>
+                        {youtube}
                         <div>
                             <h3>MP4</h3>
                             <ul>
@@ -75,7 +76,7 @@ function LectureFiles({ weekNumber }) {
                                 <li><a href={`https://cdn.cs50.net/2019/fall/lectures/${weekNumber}/lecture${weekNumber}-4k.mp4.download`}>4K</a></li>
                             </ul>
                         </div>
-                        {youtube}
+                        
                     </ul>
                 </div>
             </div>
