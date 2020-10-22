@@ -36,7 +36,6 @@
             display: flex;
             justify-content: space-between;
             flex-direction: column;
-            
             margin-left: 2em;
 
 
@@ -71,6 +70,20 @@
 
         }
     }
-
-
 }
+
+
+/* Desktop version
+---------------- */
+
+@media only screen and (min-width: 1000px){
+    .week-content{
+        .week-files{
+            .files{
+                flex-direction: row !important;
+                max-width: 1000px;
+            }
+        }
+    }
+}
+
