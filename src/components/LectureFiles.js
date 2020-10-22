@@ -38,12 +38,12 @@ function LectureFiles({ weekNumber }) {
         <div className="week-files">
             <h2 className="week-content-header">Lecture</h2>
             <div className="files">
-                {demosList && demosList}
 
                 <div className="filesGroup">
                     <li><a href={`https://cdn.cs50.net/2019/fall/lectures/${weekNumber}/lecture${weekNumber}.mp3.download`}>Audio</a></li>
                     <li><a href={`https://cs50.harvard.edu/x/2020/notes/${weekNumber}/`}>Notes</a></li>
                 </div>
+                {demosList && demosList}
 
                 <div className="filesGroup">
                     <h2>Slides</h2>
