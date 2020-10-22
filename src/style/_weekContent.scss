@@ -1,4 +1,7 @@
 .week-content{
+    padding: 2em 0;
+    border-bottom: 2px solid $clrLight;
+    border-top: 2px solid $clrLight;
 
     a{/* All links to week files*/
         color:darken($clrLight, 15);
@@ -6,6 +9,14 @@
 
     header{
         font-size: 0.75em;
+    }
+
+    .week-content-header{
+        margin: 1em;
+        padding: 0.25em;
+        font-size: 1.5em;
+        color: $clrLight;
+        font-weight: 600;
     }
 
     iframe{
@@ -16,10 +27,6 @@
 
     .week-files{
 
-        & > h2{
-            margin: 1em;
-            padding: 0.25em;
-        }
 
         .files{
             display: flex;
@@ -47,10 +54,6 @@
 
     .shorts{
         margin: 2em 0;
-        & > h2{
-            margin: 1em 0 0.25em 1em;
-            padding: 0.25em;
-        }
 
         .shorts-list{
             margin-left: 5em;

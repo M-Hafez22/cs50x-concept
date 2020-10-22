@@ -36,7 +36,7 @@ function LectureFiles({ weekNumber }) {
 
     return (
         <div className="week-files">
-            <h2>Lecture</h2>
+            <h2 className="week-content-header">Lecture</h2>
             <div className="files">
                 {demosList && demosList}
 
