@@ -1,10 +1,11 @@
 .week-content{
-    header{
-        font-size: 0.75em;
-    }
 
     a{/* All links to week files*/
         color:darken($clrLight, 15);
+    }
+
+    header{
+        font-size: 0.75em;
     }
 
     iframe{
@@ -12,6 +13,7 @@
         height: 584px;
         padding: 1rem;
     }
+
     .week-files{
 
         & > h2{
@@ -40,6 +42,24 @@
                     list-style: inside;
                 }
             }
+        }
+    }
+
+    .shorts{
+        margin: 2em 0;
+        & > h2{
+            margin: 1em 0 0.25em 1em;
+            padding: 0.25em;
+        }
+
+        .shorts-list{
+            margin-left: 5em;
+            list-style: lower-roman outside;
+
+            li{
+                padding: 0.25em;
+            }
+
         }
     }
 
