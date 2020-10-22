@@ -10,7 +10,7 @@ function WeekContent({weekNumber}) {
     const finalWeek = (Object.keys(weeks).length) - 1 == weekNumber ;
     console.log(weekNumber)
     return (
-        <div>
+        <div className="week-content">
             <header>
                 <h1>Week {weekNumber} - <span>{week.name}</span></h1>
             </header>

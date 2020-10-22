@@ -3,6 +3,10 @@ footer{
     flex-wrap: wrap;
     justify-content: center;
 
+    a{
+        color:darken($clrLight, 15);
+    }
+
     .footerGroup{
         margin: 0.5em;
 

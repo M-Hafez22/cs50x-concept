@@ -22,7 +22,7 @@ function LectureFiles({ weekNumber }) {
     const youtube = week.video.youtube.ThreeD ? 
         (
             <div>
-                <h2>Youtube</h2>
+                <h3>Youtube</h3>
                 <ul>
                     <li><a href={week.video.youtube.twoD}>2D</a></li>
                     <li><a href={week.video.youtube.ThreeD}>3D</a></li>
@@ -35,7 +35,7 @@ function LectureFiles({ weekNumber }) {
         );
 
     return (
-        <div>
+        <div className="week-files">
             <h2>Lecture</h2>
             <div className="files">
                 {demosList && demosList}
@@ -67,7 +67,7 @@ function LectureFiles({ weekNumber }) {
                     <ul>
                         <li><a href={week.video.cs50_player}>CS50 Video player</a></li>
                         <div>
-                            <h2>MP4</h2>
+                            <h3>MP4</h3>
                             <ul>
                                 <li><a href={`https://cdn.cs50.net/2019/fall/lectures/${weekNumber}/lecture${weekNumber}-360p.mp4.download`}> 360p</a></li>
                                 <li><a href={`https://cdn.cs50.net/2019/fall/lectures/${weekNumber}/lecture${weekNumber}-720p.mp4.download`}>720p</a></li>
