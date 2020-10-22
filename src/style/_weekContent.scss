@@ -9,6 +9,10 @@
 
     header{
         font-size: 0.75em;
+
+        span{
+            color: $accent;
+        }
     }
 
     .week-content-header{
