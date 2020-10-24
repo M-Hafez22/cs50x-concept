@@ -15,7 +15,7 @@ function Shorts({ weekNumber }) {
     );
     return (
         <div className="shorts">
-            <h2 className="week-content-header">Shorts</h2>
+            <h2>Shorts</h2>
             {shortsList}
         </div>
     )
