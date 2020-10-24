@@ -86,14 +86,23 @@
     }
 
     .shorts{
-        margin: 2em 0;
-
+        margin: 2em;
         .shorts-list{
             margin-left: 5em;
-            list-style: lower-roman outside;
+            counter-reset: my-counter;
 
             li{
                 padding: 0.25em;
+                counter-increment: my-counter;
+                &::before {
+                    content: counter(my-counter) " .";
+                    color: $accent;
+                    font-weight: bold;
+                    display: inline-block; 
+                    width: 1.5em;
+                    left: -0.25em;
+                    margin-left: -1.5em;
+                  }
             }
 
         }
