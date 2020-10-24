@@ -1,9 +1,11 @@
 .weeks-list{
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-auto-rows: 1fr;
     padding: 10px;
     margin: auto 0;
+
+
     
     a{
         color: $accent;
@@ -13,9 +15,12 @@
         padding: 0.5em;
         margin: 1em;
         text-align: center;
+        font-size: 1.5em;
+        font-weight: 800;
         /* Hover Animation*/
         position:relative ;
         overflow: hidden;
+
 
         &:hover{
             border-color: $clrDark;
@@ -43,3 +48,13 @@
 
     }
 }
+
+
+
+@media only screen and (min-width: 1000px){
+    .weeks-list{
+        max-width: 80vw;
+        // margin: auto ;
+    }
+}
+
