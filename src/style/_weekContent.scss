@@ -8,13 +8,14 @@
         color:darken($clrLight, 15);
     }
 
+    span{
+        color: $accent;
+    }
+    
     header{
         font-size: 0.75em;
         margin-bottom: 1.25em;
 
-        span{
-            color: $accent;
-        }
     }
 
     .week-content-header{

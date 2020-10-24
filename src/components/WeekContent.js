@@ -27,7 +27,7 @@ function WeekContent({weekNumber}) {
                     href={`https://cs50.harvard.edu/x/2020/psets/${weekNumber}/`}
                     className='week-content-header'
                     >
-                    Problem Set {weekNumber} { finalWeek && " (Choose your Track)"}
+                    Problem <span>Set {weekNumber} { finalWeek && " (Choose your Track)"}</span>
                 </a>
             </div>
         </div>
