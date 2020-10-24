@@ -24,10 +24,18 @@
         font-weight: 600;
     }
 
-    iframe{
-        width: 100%;
-        height: 80vh;
-        padding: 1rem;
+    .lecture-video{
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+            iframe{
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
     }
 
     .week-files{
@@ -79,6 +87,9 @@
 
 @media only screen and (min-width: 1000px){
     .week-content{
+        // iframe{
+        //     height: 85vh;
+        // }
         .week-files{
             .files{
                 flex-direction: row !important;
