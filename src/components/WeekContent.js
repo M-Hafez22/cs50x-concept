@@ -7,7 +7,7 @@ import Shorts from './Shorts'
 function WeekContent({weekNumber}) {
     //Selected Week
     const week = weeks[weekNumber];
-    const finalWeek = (Object.keys(weeks).length) - 1 == weekNumber ;
+    const isFinalWeek = (Object.keys(weeks).length) - 1 == weekNumber ;
     console.log(weekNumber)
     return (
         <div className="week-content">
@@ -27,7 +27,7 @@ function WeekContent({weekNumber}) {
                     href={`https://cs50.harvard.edu/x/2020/psets/${weekNumber}/`}
                     className='week-content-header'
                     >
-                    Problem <span>Set {weekNumber} { finalWeek && " (Choose your Track)"}</span>
+                    Problem <span>Set {weekNumber} { isFinalWeek && " (Choose your Track)"}</span>
                 </a>
             </div>
         </div>
