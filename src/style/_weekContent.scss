@@ -68,7 +68,7 @@
                         width: 5px;
                         height: 100%;
                         top: 0;
-                        left: -0.25em;
+                        left: -0.5em;
                         border-radius: 5px;
                     }
                 }
@@ -108,19 +108,3 @@
         }
     }
 }
-
-
-/* Desktop version
----------------- */
-
-// @media only screen and (min-width: 550px){
-//     .week-content{
-//         .week-files{
-//             .files{
-//                 flex-direction: row !important;
-//                 flex-wrap: wrap;
-//             }
-//         }
-//     }
-// }
-
