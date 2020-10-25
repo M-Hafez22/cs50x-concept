@@ -1,68 +1,68 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CS50x 2020 concept
+A Dark mode version for the CS50x Harvard website.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Table of Contents
+- [What's New](#What's-New)
+- [Manual](#manual)
+- [Clone](#clone)
+- [Technologies](#technologies)
+- [Inspiration](#inspiration)
 
-### `npm start`
+## What's New 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Dark Mode
+    like all developer tools (IDE,  text editors)
+- More focus on course content 
+    Move all sidebar to the bottom to reduce distraction
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Manual
+- To go to the home page click the link at the top-left of the page
+![home page link](./Readme_assets/home-page-link.png)
 
-### `npm test`
+- On the home page, you will find a list for weeks from 0 to 8
+![weeks list](./Readme_assets/weeks-list.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- The sidebar links have moved to the bottom of the page
+![sidebar links](./Readme_assets/sidebar.png)
 
-### `npm run build`
+---
+## Clone
+To clone, you'll need Git and Node.js (which comes with npm) installed on your computer.
+From your command line:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone this repository
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+	- git clone https://github.com/M-Hafez22/cs50x-concept.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Go into the repository
 
-### `npm run eject`
+    - cd cs50x-concept
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Install dependencies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+	- npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+4. Run the app
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+	- npm start
 
-## Learn More
+- Also, this project is hosted on GitHub-pages at https://m-hafez22.github.io/cs50x-concept/#/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies
 
-### Code Splitting
+ - React version : ^17.0.0
+ - Sass version   : ^4.14.1
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    you can see all dependencies from **[package.json](package.json)**
+---
+## Inspiration
 
-### Analyzing the Bundle Size
+- 	This is my **Final Project** for **CS50x**.
+- I really enjoyed this course especially as it focuses more on how to **be a developer** rather than how to develop a project.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
+ **Finally, I would like to thank everyone who co-produced this course.**
