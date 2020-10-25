@@ -6,6 +6,7 @@ import { useParams } from 'react-router'
 
 function Week() {
     const {number} = useParams();
+    document.title = `Week ${number} - CS50x`;
     return (
         <div>
             <Header />
