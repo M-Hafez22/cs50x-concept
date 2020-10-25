@@ -1,19 +1,39 @@
 footer{
+
+    margin-top: 2em;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
+    align-items: flex-start;
 
     a{
         color:darken($clrLight, 15);
     }
 
     .footerGroup{
-        margin: 0.5em;
+        margin-bottom: 1em;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+        padding-right: 0.5em;
+        border-bottom: 2px solid lighten($clrDark, 15);
+
+        &:last-child{
+            border-bottom:none;
+        }
 
 
         li{
-            padding: 0.25em;
-            margin: 0.25em;
+            margin-left: 0.25em;
+            
+            &::before {
+                content: "\2022";
+                color: $clrLight;
+                font-weight: bold;
+                display: inline-block;
+                padding: .5em;
+              }
         }
 
     }
