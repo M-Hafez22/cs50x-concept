@@ -1,7 +1,7 @@
 import React from 'react';
 import {HashRouter as Router, Routes, Route}from 'react-router-dom'
-import Home from './Home'
-import Week from './Week'
+import Home from './pages/Home'
+import Week from './pages/Week'
 import './style/main.scss'
 
 function App() {
